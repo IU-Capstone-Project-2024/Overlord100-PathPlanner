@@ -1,0 +1,2 @@
+Invoking command in '/home/ws/src/Overlord100-PathPlanner/build/dynamixel_sdk': /usr/bin/cmake /home/ws/src/Overlord100-PathPlanner/src/utils/DynamixelSDK/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/ws/src/Overlord100-PathPlanner/install/dynamixel_sdk
+Invoked command in '/home/ws/src/Overlord100-PathPlanner/build/dynamixel_sdk' returned '1': /usr/bin/cmake /home/ws/src/Overlord100-PathPlanner/src/utils/DynamixelSDK/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/ws/src/Overlord100-PathPlanner/install/dynamixel_sdk

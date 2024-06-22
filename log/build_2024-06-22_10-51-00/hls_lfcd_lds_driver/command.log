@@ -1,0 +1,2 @@
+Invoking command in '/home/ws/src/Overlord100-PathPlanner/build/hls_lfcd_lds_driver': /usr/bin/cmake /home/ws/src/Overlord100-PathPlanner/src/utils/hls_lfcd_lds_driver -DCMAKE_INSTALL_PREFIX=/home/ws/src/Overlord100-PathPlanner/install/hls_lfcd_lds_driver
+Invoked command in '/home/ws/src/Overlord100-PathPlanner/build/hls_lfcd_lds_driver' returned '1': /usr/bin/cmake /home/ws/src/Overlord100-PathPlanner/src/utils/hls_lfcd_lds_driver -DCMAKE_INSTALL_PREFIX=/home/ws/src/Overlord100-PathPlanner/install/hls_lfcd_lds_driver
