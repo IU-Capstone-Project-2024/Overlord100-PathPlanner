@@ -29,7 +29,7 @@ from launch_ros.actions import Node
 
 def generate_launch_description():
   pkg_nav2_dir = get_package_share_directory('nav2_bringup')
-  pkg_my_nav2_bringup = get_package_share_directory('my_nav2_bringup')
+  pkg_path_planner = get_package_share_directory('path_planner')
 
   use_sim_time = LaunchConfiguration('use_sim_time', default='True')
   autostart = LaunchConfiguration('autostart', default='True')
@@ -41,7 +41,7 @@ def generate_launch_description():
       launch_arguments={
           'use_sim_time': use_sim_time,
           'autostart': autostart,
-          'map': os.path.join(pkg_my_nav2_bringup, 'maps', 'map.yaml')
+          'map': os.path.join(pkg_path_planner, 'maps', 'map.yaml')
       }.items()
   )
 
