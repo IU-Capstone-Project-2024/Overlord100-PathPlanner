@@ -1,7 +1,0 @@
-{
-  "package_name": "dynamixel_sdk_custom_interfaces",
-  "non_idl_tuples": [
-    "/home/ws/src/Overlord100-PathPlanner/src/utils/DynamixelSDK/dynamixel_sdk_custom_interfaces:msg/SetPosition.msg",
-    "/home/ws/src/Overlord100-PathPlanner/src/utils/DynamixelSDK/dynamixel_sdk_custom_interfaces:srv/GetPosition.srv"
-  ]
-}
